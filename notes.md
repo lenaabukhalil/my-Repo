@@ -1,11 +1,11 @@
 # What happens when I visit https://example.com?
 
-- I type the URL https://example.com in my browser.
-- The browser checks if the IP is cached.
-- If not, it asks DNS to resolve the domain to an IP.
-- The browser connects to the server using HTTPS.
-- The server sends back an HTML page.
-- The browser renders and shows the "Example Domain" page.
+1- I type the URL https://example.com in my browser.
+2- The browser checks if the IP is cached.
+3- If not, it asks DNS to resolve the domain to an IP.
+4- The browser connects to the server using HTTPS.
+5- The server sends back an HTML page.
+6- The browser renders and shows the "Example Domain" page.
 
 #Who created Git and when, and why?
 
